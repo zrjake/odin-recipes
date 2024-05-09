@@ -1,0 +1,36 @@
+.content *, .content {
+    font-family: "Cantarell", sans-serif;
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+div.content {
+    width: 400px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-left: 50px;
+    padding-right: 100px;
+    box-shadow: 10px 10px lightblue;
+}
+
+h1.header {
+    font-size: 32px;
+    vertical-align: middle;
+}
+
+div.header {
+    background-color: lightblue;
+    width: 500px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+h3.header {
+    font-size: 24px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
